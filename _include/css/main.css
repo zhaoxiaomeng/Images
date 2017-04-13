@@ -23,6 +23,14 @@ html, hmtl a{
 	-ms-text-size-adjust: 100%;
 }
 
+body{
+	font-weight:300;
+	font-size:16px;
+	font-family: 'Titillium Web', sans-serif;
+	line-height:28px;
+}
+
+
 a{
 	color:#DE5E60;
 	text-decoration: none;
